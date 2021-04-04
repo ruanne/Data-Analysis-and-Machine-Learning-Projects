@@ -1,0 +1,15 @@
+INFO:ipypublish:started ipypublish v0.10.12 at Sun Apr  4 15:44:25 2021
+INFO:ipypublish:logging to: /Users/ruannevanderwalt/Documents/DC_Projects/data-analysis-and-machine-learning-projects/multi-label_classification_amphibians/converted/Predictive model to aid environmental impact assessments.nbpub.log
+INFO:ipypublish:running for ipynb(s) at: Predictive model to aid environmental impact assessments.ipynb
+INFO:ipypublish:with conversion configuration: latex_ipypublish_all
+INFO:nbmerge:Reading notebook
+INFO:ipypublish:finding conversion configuration: latex_ipypublish_all
+INFO:ipypublish:loading conversion configuration
+INFO:ipypublish:creating exporter
+INFO:ipypublish:creating template and loading filters
+INFO:ipypublish:creating process configuration
+INFO:ipypublish:running nbconvert
+INFO:root:adding ipub defaults to notebook
+INFO:root:splitting outputs into separate cells
+INFO:resolve_links:resolving external file paths in ipub metadata to: Predictive model to aid environmental impact assessments.ipynb
+INFO:captions:extracting caption cells
